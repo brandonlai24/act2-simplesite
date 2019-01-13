@@ -1,0 +1,60 @@
+/*
+GENERAL:
+*/
+
+a {
+text-decoration: none;
+}
+
+img {
+max-width: 100%;
+}
+
+body {
+background-color: #EAE8D3;
+font-family: "Courier New", Courier, monospace;
+}
+
+p {
+color:black;
+font-size: 12pt;
+}
+
+#wrapper {
+max-width: 940px;
+margin: 0 auto;
+padding: 0 5%;
+background-color: none;
+}
+
+/*
+HEADER:
+*/
+
+h1 {
+color: #800000;
+font-size: 20pt;
+text-align: center
+}
+
+/*
+CLASSES:
+*/
+
+.mydiv {
+background: #EAE8D3;
+width:250px;
+height: 250px;
+}
+
+.myimage {
+float:left;
+width:200px;
+height:200px;
+margin:20px;
+border-radius: 20px;
+}
+
+/*
+NAVIGATION (Tentatively moved to html)
+*/
